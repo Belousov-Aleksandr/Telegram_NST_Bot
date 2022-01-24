@@ -48,7 +48,7 @@ class ImageProcessing:
 class ContentLoss(nn.Module):
     def __init__(self, target):
         super(ContentLoss, self).__init__()
-        self.target = target.detach()  # это константа. Убираем ее из дерева вычеслений
+        self.target = target.detach()  # это константа. Убираем ее из дерева вычислений
         self.loss = F.mse_loss(self.target, self.target)  # to initialize with something
 
     def forward(self, input):

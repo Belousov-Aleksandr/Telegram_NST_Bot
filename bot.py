@@ -56,7 +56,6 @@ async def send_welcome(message: types.Message):
     logging.info(f"New User! Current number of users in dict: {len(db_photos)}")
 
     await message.answer(f"Привет, *{message.from_user.first_name}*! \U0001F44B\n\n {kb.start_message}", parse_mode='Markdown', reply_markup=kb.start_keyboard())
-    #await message.answer(kb.start_message, reply_markup=kb.start_keyboard())
 
 @dp.callback_query_handler(text="menu")
 async def transfer_style(call: types.CallbackQuery):

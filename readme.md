@@ -67,7 +67,7 @@ gpu_ids равняется -1, так как подразумевается ис
  
 Настройки телеграм бота, в том числе, его токен и параметры для __webhook__ хранятся в файле .env:
 * API_TOKEN = '2507456574:ileo_FAKE_FAKE_FAKE_hr51k2_99j'
-* WEBHOOK_HOST=https://your_sub_domain.loca.lt
+* WEBHOOK_HOST='your_sub_domain.loca.lt'
 * WEBHOOK_PORT = 443
 * WEBHOOK_URL_PATH = ''
 * WEBAPP_HOST=0.0.0.0

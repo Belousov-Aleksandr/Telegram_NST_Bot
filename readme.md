@@ -57,7 +57,7 @@ $ python test.py --name horse2zebra_pretrained --model test --no_dropout --gpu_i
 ```
 gpu_ids равняется -1, так как подразумевается использование модели только на CPU
 
-## VDS
+## VPS
 Бот был задеплоен на внешний VPS c "белым" IP-адресом.
 Установленная ОС - Debian 11.2
 

@@ -2,7 +2,7 @@
 ### <p align="center">Aiogram StyleTransfer CycleGAN Webhook</p>
 
 <img src='images/examples/main_screen.png' align="left" width=384>
-
+<br>
 ## Telegram Bot
 Для написания бота использовалась библиотека aiogram для построения асинхронной архитектуры.
 Весь код в файле _bot.py_. В файле _keyboards.py_ находятся используемые клавиатуры и некоторые сообщения.

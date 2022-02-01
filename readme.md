@@ -1,7 +1,7 @@
 ## <p align="center">Телеграм бот</p>
 ### <p align="center">Aiogram StyleTransfer CycleGAN Webhook</p>
 
-<img src='images/examples/main_screen.png' align="left" vspace="5" hspace="5">
+<img src='images/examples/main_screen.png' align="left" vspace="5" hspace="5" width=100>
 
 ## Telegram Bot
 Для написания бота использовалась библиотека aiogram для построения асинхронной архитектуры.

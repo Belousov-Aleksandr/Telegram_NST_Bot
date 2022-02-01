@@ -8,7 +8,7 @@
 используя как классический алгоритм Гатиса на базе предобученной VGG19, так и CycleGAN.
 Для написания бота использовалась библиотека aiogram для построения асинхронной архитектуры.
 Весь код в файле _bot.py_. В файле _keyboards.py_ находятся используемые клавиатуры и некоторые сообщения.
-<img src='images/examples/main_screen.png' align="right" vspace="5" hspace="5" width=200>
+<img src='images/examples/creen_1.png' align="right" vspace="5" hspace="5" width=150>
 <br><br><br><br><br><br><br>
 Функционал бота:
 

@@ -10,7 +10,7 @@
 Весь код в файле _bot.py_. В файле _keyboards.py_ находятся используемые клавиатуры и некоторые сообщения.
 <br>
 <img src='images/examples/screen_1.png' align="right" vspace="5" hspace="5" width=150>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 Функционал бота:
 
 1. Перенос стиля
